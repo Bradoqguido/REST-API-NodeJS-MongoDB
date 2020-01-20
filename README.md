@@ -11,5 +11,5 @@ Use this: node src/index.js
 ## Using this API
 
 ### To register
-[domain]:[port]/auth/register
+domain:port/auth/register
 On localhost: localhost:3000/auth/register
